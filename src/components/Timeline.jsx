@@ -78,7 +78,7 @@ const Timeline = () => {
             <img
               src="./assets/images/last-photo.jpeg"
               alt="The Final Photo"
-              className="w-full h-full object-contain opacity-80 mix-blend-luminosity group-hover:mix-blend-normal transition-all duration-1000 md:group-hover:scale-105 drop-shadow-2xl rounded-xl"
+              className="w-full h-full object-contain transition-all duration-1000 md:group-hover:scale-105 drop-shadow-2xl rounded-xl"
             />
           </div>
 

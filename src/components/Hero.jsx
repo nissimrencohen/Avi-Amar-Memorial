@@ -28,7 +28,7 @@ const Hero = () => {
           <img 
             src={t('personalInfo.portrait')} 
             alt={t('personalInfo.name')} 
-            className="w-full h-full object-cover object-[center_15%] rounded-full grayscale-0 hover:grayscale transition-all duration-1000 ease-in-out"
+            className="w-full h-full object-cover object-[center_15%] rounded-full transition-all duration-1000 ease-in-out"
           />
         </motion.div>
         
