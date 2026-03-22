@@ -23,12 +23,12 @@ const Hero = () => {
           initial={{ scale: 0.8, opacity: 0 }}
           animate={{ scale: 1, opacity: 1 }}
           transition={{ duration: 1.5, delay: 0.3 }}
-          className="mb-8 w-40 h-40 md:w-56 md:h-56 rounded-full overflow-hidden border-4 border-slate-200/20 shadow-2xl"
+          className="mb-8 w-48 h-48 md:w-72 md:h-72 rounded-full overflow-hidden border-[3px] border-slate-300/30 shadow-2xl bg-slate-800/40 p-1 md:p-2"
         >
           <img 
             src={t('personalInfo.portrait')} 
             alt={t('personalInfo.name')} 
-            className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700 ease-in-out"
+            className="w-full h-full object-cover object-[center_15%] rounded-full grayscale hover:grayscale-0 transition-all duration-1000 ease-in-out"
           />
         </motion.div>
         
