@@ -1,0 +1,139 @@
+{
+  "translation": {
+    "personalInfo": {
+      "name": "Chief Supt. Avi Amar, of blessed memory",
+      "birthDate": "December 18, 1968",
+      "deathDate": "October 7, 2023",
+      "quote": "Don't worry, we'll get through this, I'm protecting you.",
+      "portrait": "/assets/images/main-photo.jpeg"
+    },
+    "timeline": {
+      "title": "His Life and Heroism",
+      "events": [
+        {
+          "year": "1968",
+          "title": "Childhood in Moshav Otzem",
+          "description": "Avi was born on December 18, 1968, to Chana and Yisrael in Moshav Otzem. The third of eleven children. He was brother to Lucy, Ora, Rucha, Sofia, Lior, Bat Sheva, Michal, Miro, Yael, and Asaf. A smiling, blue-eyed child known for his deep responsibility and always being the first to help anyone in need. His leadership traits earned him acceptance into an elite military boarding school."
+        },
+        {
+          "year": "1987",
+          "title": "Naval Commando & Givati",
+          "description": "Enlisted in the IDF's elite Naval Commando unit ('Shayetet 13'), executing complex operations. Later transitioned to the Givati Infantry Brigade, completed the officers' academy, and served as a highly esteemed Company Commander."
+        },
+        {
+          "year": "1994",
+          "title": "Police Career & Academics",
+          "description": "Joined the Israel Police Force. Throughout his demanding service, he operated as a Counter-Terrorism Action Officer (Lotar), District Marksman, and Detention Center Commander. His final role was Commander of the Infrastructure Branch in the 'Yoav' Unit, fighting severe crime and terror. Simultaneously, he acquired a BA in Criminology and an MA in Middle Eastern History."
+        },
+        {
+          "year": "Family",
+          "title": "The Infinite Loving Father",
+          "description": "Devoted husband to Pazit, and father to Stav, Shachar, and Itay from a previous marriage, and Efrat, Adel, Ofek, and Or (born 6 months after Avi fell) from his marriage to Pazit. Despite his intense career, he prioritized deep conversations and quality time. With 'golden hands', he was the ultimate rock of the extended family."
+        },
+        {
+          "year": "Hobbies",
+          "title": "The Horse Whisperer",
+          "description": "Friends joked Avi had '25 hours a day'. He was known as 'The Horse Whisperer', tending to and training even the most stubborn horses relentlessly. He was also an extreme athlete, completing marathons in Rome, Tiberias, Tel Aviv, and an 80-kilometer ultra-marathon. He was a die-hard fan of Maccabi Tel Aviv."
+        },
+        {
+          "year": "Oct 7th",
+          "title": "Radiating Humanity Under Fire",
+          "description": "Called to arms at 6:50 AM via the 'Parash Peleshet' order. Avi fought bravely in Sderot and Sa'ad junction, neutralizing terrorist squads. Moving to Kfar Aza, he rescued residents under fire and prevented infiltration. While securing weapons from militants, he paused at a gas station to secure water for his thirsty officers—calling his friend Nadir to ensure he paid for the 6 packs. During this inferno, he was photographed embracing a shaking young soldier, whispering 'I am protecting you'."
+        },
+        {
+          "year": "Be'eri",
+          "title": "The Final Battle",
+          "description": "Rushing to Kibbutz Be'eri, Avi joined MATPA police forces arriving in armored 'Caracal' vehicles. Avi insisted on taking the place of another officer inside the vehicle to clear the Kibbutz. The vehicles suffered massive RPG ambushes. Avi fell in battle alongside seven brave officers at 14:29. He was elevated to Chief Supt. post-mortem."
+        },
+        {
+          "year": "Legacy",
+          "title": "Sanctity of Life",
+          "description": "His legacy radiates onward: The 'Riders Post' memorial site was established. A Torah scroll was dedicated in his name. Maccabi Tel Aviv held a tribute for him. Driven by his father's values of absolute sanctity of life, his son Itay is raising funds for an MDA intensive care ambulance. His name is etched forever on the National Police Memorial and the Police College monument."
+        }
+      ],
+      "lastPhoto": {
+        "title": "The Final Photograph",
+        "text": "The final photograph of Chief Supt. Avi Amar, who, amidst the complete chaos surrounding him, kneels down to comfort a young soldier with a fatherly embrace.\nA soldier struggling to cope with the horrific sights on the ground, creating for him a bubble of quiet.\nAvi fell in battle shortly after this moment while fighting to regain control over Kibbutz Be'eri.\nOctober 7, 2023. Aged 54 at his fall."
+      },
+      "memorialSite": {
+        "title": "The Memorial Site - Riders' Post",
+        "text": "In the pastoral nature of the Otzem Wadi, Avi's friends built a beautiful tribute corner. A sign reads: 'The Riders' Post in memory of Chief Supt. Avi Amar, Hero of Israel: For a man is like the tree of the field...'\nThe site stands eternally open for bikers, hikers, and those who wish to remember him.",
+        "btnNavigate": "Navigate to site"
+      }
+    },
+    "nav": {
+      "timeline": "Biography",
+      "memories": "Stories",
+      "gallery": "Photo & Media",
+      "memorialSite": "Memorial Site",
+      "candleWall": "Light a Candle"
+    },
+    "gallery": {
+      "title": "Photo & Media Gallery",
+      "videoTitle": "Video Archive & Press",
+      "tabs": {
+        "family": "Family Moments",
+        "memorial": "Tribute & Memorial"
+      },
+      "familyImages": [
+        "/assets/images/gallery/family/WhatsApp Image 2026-03-22 at 20.43.22.jpeg",
+        "/assets/images/gallery/family/WhatsApp Image 2026-03-22 at 20.43.52.jpeg",
+        "/assets/images/gallery/family/WhatsApp Image 2026-03-22 at 21.02.17.jpeg",
+        "/assets/images/gallery/family/אבי  רוכב.jpeg",
+        "/assets/images/gallery/family/אבי מנגל.jpeg",
+        "/assets/images/gallery/family/אבי מסעדה.jpeg",
+        "/assets/images/gallery/family/אבי ספר תורה.jpeg",
+        "/assets/images/gallery/family/סיום המרתון ברומא.jpeg"
+      ],
+      "memorialImages": [
+        "/assets/images/gallery/memorial/1.jpeg",
+        "/assets/images/gallery/memorial/11.jpeg",
+        "/assets/images/gallery/memorial/2.jpeg",
+        "/assets/images/gallery/memorial/21.jpeg",
+        "/assets/images/gallery/memorial/WhatsApp Image 2026-03-22 at 20.43.21.jpeg",
+        "/assets/images/gallery/memorial/WhatsApp Image 2026-03-22 at 20.43.22.jpeg",
+        "/assets/images/gallery/memorial/הכנסת ספר תורה.jpeg",
+        "/assets/images/last-photo.jpeg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/8fAY849jzrU"
+      ]
+    },
+    "memories": {
+      "title": "Memories & Stories",
+      "items": [
+        {
+          "author": "Pazit Amar",
+          "relation": "Wife",
+          "story": "My beloved husband, it is still unbearable to think that you are no longer with us. I love you endlessly, and I know you will protect us forever."
+        },
+        {
+          "author": "Bat Sheva",
+          "relation": "Sister",
+          "story": "My brother, the king of our family forever. You were the strongest, our hero, our rescuer. The reality of living without you is shattered."
+        },
+        {
+          "author": "Itay Amar",
+          "relation": "Son",
+          "story": "Zionism, excellence, and the sanctity of life - these are the values Dad raised us by. He educated us to contribute to others and give back to our country."
+        }
+      ]
+    },
+    "candleWall": {
+      "title": "Virtual Candle Lighting",
+      "subtitle": "Light a candle and leave a dedication in memory of Chief Supt. Avi Amar",
+      "form": {
+        "nameLabel": "Name",
+        "namePlaceholder": "Enter your name...",
+        "messageLabel": "Dedication",
+        "messagePlaceholder": "Share how Avi touched your life...",
+        "submit": "Light Candle",
+        "submitting": "Lighting..."
+      },
+      "candlesCount": "Candles lit in his memory: {{count}}"
+    },
+    "footer": {
+      "inMemory": "May his memory be a blessing - In loving memory of {{name}}"
+    }
+  }
+}
